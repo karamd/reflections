@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new .git directory will be created. If I run git log on it, it will show the error message "fatal" as there is no commit that has been created yet. I can also run git status to check which files are changed since last commit.
